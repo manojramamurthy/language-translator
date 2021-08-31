@@ -1,0 +1,1 @@
+This language translator reads word document (.docx) and translates into any specific language and writes the output back to word document.
